@@ -3,9 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-background-color: #F8C8DC;
+    background-color: #F8C8DC;
     background-image: url('../images/heart_background.jpg');
     /*
+    background-color: #F8C8DC;
+    */
+}
 
 /* Position the "No" button absolutely within body */
 #noButton {
@@ -42,7 +45,7 @@ background-color: #F8C8DC;
 }
 
 .btn {
-    background-color: #FFB6C1;
+    background-color: #ff7c90;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -61,6 +64,10 @@ background-color: #F8C8DC;
 
 .gif_container {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 90px;
+}
     justify-content: center;
     align-items: center;
     margin-left: 90px;
