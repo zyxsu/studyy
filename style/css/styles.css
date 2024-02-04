@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #F8C8DC;
-    background-image: url('style/images./heart_background.jpg');
+    background-image: url('../images/heart_background.jpg');
     /*
     background-color: #F8C8DC;
     */
@@ -64,10 +64,6 @@ body {
 
 .gif_container {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 90px;
-}
     justify-content: center;
     align-items: center;
     margin-left: 90px;
