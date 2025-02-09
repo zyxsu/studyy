@@ -14,13 +14,13 @@ body {
 #noButton {
     position: absolute;
     margin-left: 150px;
-    transition: 0.5s;
     /* Smooth movement */
 }
 
 #yesButton {
     position: absolute;
     margin-right: 150px;
+	transition: 0.5s;
     /* Smooth movement */
 }
 
@@ -67,4 +67,4 @@ body {
     justify-content: center;
     align-items: center;
     margin-left: 90px;
-}
+}  read the code
